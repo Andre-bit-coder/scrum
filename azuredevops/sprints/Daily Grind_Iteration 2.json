@@ -1,0 +1,82 @@
+[
+  {
+    "id": 196,
+    "title": "Als klant wil dat een vlag kunnen configureren door een eigen logo/ontwerp up te loaden",
+    "description": "<div><span>Een vlag kunnen configureren door een eigen ontwerp/logo&nbsp;</span><span>te uploaden</span><br> </div>",
+    "acceptanceCriteria": "<div><span>Ik een unieke vlag kan bestellen voor mijn specifieke&nbsp;</span><span>vereniging of bedrijf</span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 2",
+    "state": "New",
+    "assignedTo": "Andre Huang",
+    "workItemType": ""
+  },
+  {
+    "id": 197,
+    "title": "Als een klant wil ik dat reviews automatisch worden vertaald.",
+    "description": "<div><span>Reviews kunnen filteren op taal of automatisch laten&nbsp;</span><span>vertalen</span><br> </div>",
+    "acceptanceCriteria": "<div><span>Ik de ervaringen van andere klanten kan beoordelen,&nbsp;</span><span>ongeacht de taal waarin ze geschreven zijn</span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 2",
+    "state": "New",
+    "assignedTo": "Mirac Topbas",
+    "workItemType": ""
+  },
+  {
+    "id": 198,
+    "title": "Als een klant wil ik een overzicht van de offciele vlaginstructies per land.",
+    "description": "<div><span>Een overzicht van de officiële vlaginstructies per land&nbsp;</span><span>kunnen inzien in de eigen taal</span><br> </div>",
+    "acceptanceCriteria": "<div><span>Ik weet op welke dagen en op welke wijze (bijv. halfstok)&nbsp;</span><span>ik de vlag correct moet uithangen</span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 2",
+    "state": "New",
+    "assignedTo": "Emre Kayalık",
+    "workItemType": ""
+  },
+  {
+    "id": 199,
+    "title": "Als een klant wil ik per materiaaltype (bijv. 110g/m² Gloss Poly of  spunpolyester) specifieke onderhouds- en wasvoorschriften  ontvangen",
+    "description": "<span>Per materiaaltype (bijv. 110g/m² Gloss Poly of&nbsp;</span><span style=\"background-color:rgb(32, 31, 30);color:rgba(255, 255, 255, 0.95);\">spunpolyester) specifieke onderhouds- en wasvoorschriften&nbsp;</span><span style=\"color:rgba(255, 255, 255, 0.95);background-color:rgb(32, 31, 30);\">ontvangen</span>",
+    "acceptanceCriteria": "<div><span>Ik de levensduur van mijn vlaggen kan maximaliseren door&nbsp;</span><span>ze op de juiste manier te reinigen</span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 2",
+    "state": "New",
+    "assignedTo": "Christian Gawriyah",
+    "workItemType": ""
+  },
+  {
+    "id": 200,
+    "title": "Als klant wil ik dat orderbevestigingen en statusupdates (Track & Trace)",
+    "description": "<div><span>Orderbevestigingen en statusupdates (Track &amp; Trace)&nbsp;</span><span>ontvangen in de taal waarin de bestelling is geplaatst</span><br> </div>",
+    "acceptanceCriteria": "<div><span>Ik het verzendproces volledig kan volgen zonder&nbsp;</span><span>taalbarrières bij de communicatie van de vervoerder</span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 2",
+    "state": "New",
+    "assignedTo": "Andre Huang",
+    "workItemType": ""
+  },
+  {
+    "id": 201,
+    "title": "Als admin wil ik dat per product verschillende vertalingen voor de SEO-metadata.",
+    "description": "<div><span>Per product verschillende vertalingen voor de SEO-metadata&nbsp;</span><span>(title tags, meta descriptions) kunnen invoeren.</span><br> </div>",
+    "acceptanceCriteria": "<div><span>De webshop per regio goed vindbaar is in&nbsp;</span><span>zoekmachines zoals Google.</span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 2",
+    "state": "New",
+    "assignedTo": "Mirac Topbas",
+    "workItemType": ""
+  },
+  {
+    "id": 202,
+    "title": "Als admin wil ik dat gebruiksrollen en permissies kunnen toewijzen.",
+    "description": "<div><span>Gebruikersrollen en permissies kunnen toewijzen (bijv. vertaler,&nbsp;</span><span>klantenservice, magazijn).</span><br> </div>",
+    "acceptanceCriteria": "<span>De veiligheid gewaarborgd blijft en medewerkers&nbsp;</span><span style=\"background-color:rgb(32, 31, 30);color:rgba(255, 255, 255, 0.95);\">alleen toegang hebben tot de functies die ze nodig&nbsp;</span><span style=\"color:rgba(255, 255, 255, 0.95);background-color:rgb(32, 31, 30);\">hebben (Role-Based Access Control)</span>",
+    "iterationPath": "Daily Grind\\Iteration 2",
+    "state": "New",
+    "assignedTo": "Emre Kayalık",
+    "workItemType": ""
+  },
+  {
+    "id": 203,
+    "title": "Àls content manager wil ik dat productteksten in bulk kunnen exporteren naar een CSV-bestand.",
+    "description": "<div>Productteksten in bulk kunnen exporteren naar een CSV￾bestand voor de vertaalafdeling.<br> </div>",
+    "acceptanceCriteria": "<div><span>Het vertaalproces efficiënt verloopt zonder&nbsp;</span><span>handmatige copy-paste acties in het CMS</span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 2",
+    "state": "New",
+    "assignedTo": "Christian Gawriyah",
+    "workItemType": ""
+  }
+]

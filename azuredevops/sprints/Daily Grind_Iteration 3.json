@@ -1,0 +1,72 @@
+[
+  {
+    "id": 204,
+    "title": "Als voorraad beheerder wil ik dat een automatische waarschuwing ontvangen wanneer de voorraad van specifieke grondstoffen.",
+    "description": "<span>Een automatische waarschuwing ontvangen wanneer de&nbsp;</span><span style=\"background-color:rgb(32, 31, 30);color:rgba(255, 255, 255, 0.95);\">voorraad van specifieke grondstoffen (zoals rollen&nbsp;</span><span style=\"color:rgba(255, 255, 255, 0.95);background-color:rgb(32, 31, 30);\">polyesterdoek) onder een drempelwaarde zakt.</span>",
+    "acceptanceCriteria": "<div><span>Ik tijdig nieuwe materialen kan inkopen om&nbsp;</span><span>productieonderbrekingen te voorkomen.</span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 3",
+    "state": "New",
+    "assignedTo": "Andre Huang",
+    "workItemType": ""
+  },
+  {
+    "id": 205,
+    "title": "Als marketing manager wil ik dat per taalregio specifieke landingspagina's en banners kunnen instellen voor lokale feestdagen.",
+    "description": "<span>Per taalregio specifieke landingspagina's en banners kunnen&nbsp;</span><span style=\"background-color:rgb(32, 31, 30);color:rgba(255, 255, 255, 0.95);\">instellen voor lokale feestdagen (bijv. Koningsdag in NL of&nbsp;</span><span style=\"color:rgba(255, 255, 255, 0.95);background-color:rgb(32, 31, 30);\">Quatorze Juillet in Frankrijk.</span>",
+    "acceptanceCriteria": "<div><span>De webshop relevant blijft voor de lokale markt en&nbsp;</span><span>de conversie per regio stijgt</span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 3",
+    "state": "New",
+    "assignedTo": "Mirac Topbas",
+    "workItemType": ""
+  },
+  {
+    "id": 206,
+    "title": "Als devops enigneer wil ik de front-end en back-end in apparte containers draaien die communiceren via een intern geisoleerd netwerk.",
+    "description": "<div>Als devops enigneer wil ik de front-end en back-end in apparte containers draaien die communiceren via een intern geisoleerd netwerk.<br> </div>",
+    "acceptanceCriteria": "<span>De back-end API niet rechtstreeks&nbsp;</span><span style=\"background-color:rgb(32, 31, 30);color:rgba(255, 255, 255, 0.95);\">aan het publieke internet wordt&nbsp;</span><span style=\"color:rgba(255, 255, 255, 0.95);background-color:rgb(32, 31, 30);\">blootgesteld, wat de beveiliging&nbsp;</span><span style=\"color:rgba(255, 255, 255, 0.95);background-color:rgb(32, 31, 30);\">verhoogt</span>",
+    "iterationPath": "Daily Grind\\Iteration 3",
+    "state": "New",
+    "assignedTo": "Emre Kayalık",
+    "workItemType": ""
+  },
+  {
+    "id": 207,
+    "title": "Als system admin wil ik gebruikmaken van persistent volumes voor de opslag van vlag-afbeelding en de database.",
+    "description": "<div>Als system admin wil ik gebruikmaken van persistent volumes voor de opslag van vlag-afbeelding en de database.<br> </div>",
+    "acceptanceCriteria": "<span>Er geen data verloren gaat wanneer&nbsp;</span><span style=\"background-color:rgb(32, 31, 30);color:rgba(255, 255, 255, 0.95);\">een container wordt geüpdatet,&nbsp;</span><span style=\"color:rgba(255, 255, 255, 0.95);background-color:rgb(32, 31, 30);\">herstart of verwijderd&nbsp;</span><span style=\"color:rgba(255, 255, 255, 0.95);background-color:rgb(32, 31, 30);\">(Statelessness)</span>",
+    "iterationPath": "Daily Grind\\Iteration 3",
+    "state": "New",
+    "assignedTo": "Christian Gawriyah",
+    "workItemType": ""
+  },
+  {
+    "id": 208,
+    "title": "Als developer wil ik dat een docker-compose.yml bestand gebruiken om de front-end, back-end en database lokaal op te kunnen draaien.",
+    "description": "<div>Als developer wil ik dat een docker-compose.yml bestand gebruiken om de front-end, back-end en database lokaal op te kunnen draaien.<br> </div>",
+    "acceptanceCriteria": "<span>Mijn ontwikkelomgeving identiek is&nbsp;</span><span style=\"background-color:rgb(32, 31, 30);color:rgba(255, 255, 255, 0.95);\">aan de productieomgeving (&quot;it&nbsp;</span><span style=\"color:rgba(255, 255, 255, 0.95);background-color:rgb(32, 31, 30);\">works on my machine&quot; probleem</span><span style=\"color:rgba(255, 255, 255, 0.95);background-color:rgb(32, 31, 30);\">voorkomen).</span>",
+    "iterationPath": "Daily Grind\\Iteration 3",
+    "state": "New",
+    "assignedTo": "Andre Huang",
+    "workItemType": ""
+  },
+  {
+    "id": 209,
+    "title": "Als systeem wil ik automatisch health checks uitvoeren op de back-end container.",
+    "description": "<div>Als systeem wil ik automatisch health checks uitvoeren op de back-end container.<br> </div>",
+    "acceptanceCriteria": "<span>De orchestrator (bijv. Docker&nbsp;</span><span style=\"background-color:rgb(32, 31, 30);color:rgba(255, 255, 255, 0.95);\">Compose of Kubernetes) de&nbsp;</span><span style=\"color:rgba(255, 255, 255, 0.95);background-color:rgb(32, 31, 30);\">container automatisch kan&nbsp;</span><span style=\"color:rgba(255, 255, 255, 0.95);background-color:rgb(32, 31, 30);\">herstarten als de API niet meer&nbsp;</span><span style=\"color:rgba(255, 255, 255, 0.95);background-color:rgb(32, 31, 30);\">reageert.</span>",
+    "iterationPath": "Daily Grind\\Iteration 3",
+    "state": "New",
+    "assignedTo": "Mirac Topbas",
+    "workItemType": ""
+  },
+  {
+    "id": 210,
+    "title": "Als systeem wil ik op basis van het IP-adres van bezoeker automatisch de meest revalant taal en regio instellen.",
+    "description": "<div>Als systeem wil ik op basis van het IP-adres van bezoeker automatisch de meest revalant taal en regio instellen.<br> </div>",
+    "acceptanceCriteria": "<span>De UX direct bij binnenkomst&nbsp;</span><span style=\"background-color:rgb(32, 31, 30);color:rgba(255, 255, 255, 0.95);\">geoptimaliseerd is voor de&nbsp;</span><span style=\"color:rgba(255, 255, 255, 0.95);background-color:rgb(32, 31, 30);\">specifieke gebruiker</span>",
+    "iterationPath": "Daily Grind\\Iteration 3",
+    "state": "New",
+    "assignedTo": "Emre Kayalık",
+    "workItemType": ""
+  }
+]

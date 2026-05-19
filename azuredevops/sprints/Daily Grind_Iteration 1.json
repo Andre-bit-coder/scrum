@@ -1,0 +1,82 @@
+[
+  {
+    "id": 188,
+    "title": "Als IT-manager wil ik dat webshop bestaat uit containers",
+    "description": "<div><span>Als IT-manager wil ik dat de&nbsp;</span><span style=\"background-color:rgb(32, 31, 30);color:rgba(255, 255, 255, 0.95);\">webshop bestaat uit containers&nbsp;</span><span style=\"background-color:rgb(32, 31, 30);color:rgba(255, 255, 255, 0.95);\">bovenop kubernetes zodat ik&nbsp;</span><span style=\"background-color:rgb(32, 31, 30);color:rgba(255, 255, 255, 0.95);\">alle voordelen van container&nbsp;</span><span>orchestratie kan gebruiken. </span><br> </div>",
+    "acceptanceCriteria": "<div><span>Registry<br></span><div>Repositories<br> </div><span>Kubernetes</span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 1",
+    "state": "New",
+    "assignedTo": "Andre Huang",
+    "workItemType": ""
+  },
+  {
+    "id": 189,
+    "title": "Als IT-manager maak ik Kubernetes",
+    "description": "<div>Als IT-manager wil ik dat Kubernetes gebruik maakt van &nbsp;een cloud omgeving zodat de &nbsp;beschikbaarheid wordt &nbsp;verhoogd. <br> </div>",
+    "acceptanceCriteria": "<div><span>Kubernetes<br></span><span>Cloud</span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 1",
+    "state": "New",
+    "assignedTo": "Mirac Topbas",
+    "workItemType": ""
+  },
+  {
+    "id": 190,
+    "title": "Als IT-manager wil ik dat de webshop bestaat uit front-end container(s) en een back-end container(s).",
+    "description": "<div>Als IT-manager wil ik dat de webshop bestaat uit front-end container(s) en een back-end container(s) zodat meerdere front-end gebruikt kunnen &nbsp;worden op hetzelfde back-end.<br> </div>",
+    "acceptanceCriteria": "<div><span>Front-End voor meerdere <br></span><div>platformen (o.a. mobile en <br> </div><span>desktop). </span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 1",
+    "state": "New",
+    "assignedTo": "Emre Kayalık",
+    "workItemType": ""
+  },
+  {
+    "id": 191,
+    "title": "Als bezoeker wil ik dat het webshop in meerdere talen beschikbaar is.",
+    "description": "<div>De taal van de webshop kunnen wijzigen via een dropdown￾menu.<br> </div>",
+    "acceptanceCriteria": "<div><span>Ik de productbeschrijvingen en technische specificaties in <br></span><span>mijn eigen taal kan begrijpen</span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 1",
+    "state": "New",
+    "assignedTo": "Christian Gawriyah",
+    "workItemType": ""
+  },
+  {
+    "id": 192,
+    "title": "Als bezoeker wil ik dat het kan sorteren op bevestigingsmethode.",
+    "description": "<div><span>Filteren op bevestigingsmethode (bijv. koord/lus, haken of&nbsp;</span><span>een tunnel voor een vlaggenmast)</span><br> </div>",
+    "acceptanceCriteria": "<div><span>Ik alleen vlaggen zie die fysiek passen op de&nbsp;</span><span>vlaggenmasten of gevelhouders die ik al bezit</span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 1",
+    "state": "New",
+    "assignedTo": "Andre Huang",
+    "workItemType": ""
+  },
+  {
+    "id": 193,
+    "title": "Als klant wil ik dat het filteren op vlagtype",
+    "description": "<div><span>Filteren op vlagtype (bijv. landvlaggen, seinvlaggen of&nbsp;</span><span>bedrijfsvlaggen).</span><br> </div>",
+    "acceptanceCriteria": "<div><span>Ik snel de juiste categorie vind zonder door het hele&nbsp;</span><span>assortiment te scrollen</span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 1",
+    "state": "New",
+    "assignedTo": "Mirac Topbas",
+    "workItemType": ""
+  },
+  {
+    "id": 194,
+    "title": "Als klant wil ik dat bij een vlaggenmaat direct bijpassende montagewijze toevoegen.",
+    "description": "<div><span>Bij een vlaggenmast direct bijpassende montagematerialen&nbsp;</span><span>(beugels, koorden) als 'bundel' kunnen toevoegen</span><br> </div>",
+    "acceptanceCriteria": "<div><span>Ik zeker weet dat alle onderdelen compatibel zijn voor de&nbsp;</span><span>installatie</span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 1",
+    "state": "New",
+    "assignedTo": "Emre Kayalık",
+    "workItemType": ""
+  },
+  {
+    "id": 195,
+    "title": "Als klant kan ik dat het prijzen zien in mijn lokale valuta.",
+    "description": "<div><span>Prijzen zien in mijn lokale valuta en afmetingen in het&nbsp;</span><span>metrieke of imperiale stelsel.</span><br> </div>",
+    "acceptanceCriteria": "<div><span>Ik niet handmatig hoef om te rekenen van centimeters&nbsp;</span><span>naar inches of van Euro naar Pond</span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 1",
+    "state": "New",
+    "assignedTo": "Christian Gawriyah",
+    "workItemType": ""
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "id": 188,
+    "title": "Als IT-manager wil ik dat webshop bestaat uit containers",
+    "description": "<div><span>Als IT-manager wil ik dat de&nbsp;</span><span style=\"background-color:rgb(32, 31, 30);color:rgba(255, 255, 255, 0.95);\">webshop bestaat uit containers&nbsp;</span><span style=\"background-color:rgb(32, 31, 30);color:rgba(255, 255, 255, 0.95);\">bovenop kubernetes zodat ik&nbsp;</span><span style=\"background-color:rgb(32, 31, 30);color:rgba(255, 255, 255, 0.95);\">alle voordelen van container&nbsp;</span><span>orchestratie kan gebruiken. </span><br> </div>",
+    "acceptanceCriteria": "<div><span>Registry<br></span><div>Repositories<br> </div><span>Kubernetes</span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 1",
+    "state": "New",
+    "assignedTo": "Andre Huang",
+    "workItemType": ""
+  },
+  {
+    "id": 189,
+    "title": "Als IT-manager maak ik Kubernetes",
+    "description": "<div>Als IT-manager wil ik dat Kubernetes gebruik maakt van &nbsp;een cloud omgeving zodat de &nbsp;beschikbaarheid wordt &nbsp;verhoogd. <br> </div>",
+    "acceptanceCriteria": "<div><span>Kubernetes<br></span><span>Cloud</span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 1",
+    "state": "New",
+    "assignedTo": "Mirac Topbas",
+    "workItemType": ""
+  },
+  {
+    "id": 190,
+    "title": "Als IT-manager wil ik dat de webshop bestaat uit front-end container(s) en een back-end container(s).",
+    "description": "<div>Als IT-manager wil ik dat de webshop bestaat uit front-end container(s) en een back-end container(s) zodat meerdere front-end gebruikt kunnen &nbsp;worden op hetzelfde back-end.<br> </div>",
+    "acceptanceCriteria": "<div><span>Front-End voor meerdere <br></span><div>platformen (o.a. mobile en <br> </div><span>desktop). </span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 1",
+    "state": "New",
+    "assignedTo": "Emre Kayalık",
+    "workItemType": ""
+  },
+  {
+    "id": 191,
+    "title": "Als bezoeker wil ik dat het webshop in meerdere talen beschikbaar is.",
+    "description": "<div>De taal van de webshop kunnen wijzigen via een dropdown￾menu.<br> </div>",
+    "acceptanceCriteria": "<div><span>Ik de productbeschrijvingen en technische specificaties in <br></span><span>mijn eigen taal kan begrijpen</span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 1",
+    "state": "New",
+    "assignedTo": "Christian Gawriyah",
+    "workItemType": ""
+  },
+  {
+    "id": 192,
+    "title": "Als bezoeker wil ik dat het kan sorteren op bevestigingsmethode.",
+    "description": "<div><span>Filteren op bevestigingsmethode (bijv. koord/lus, haken of&nbsp;</span><span>een tunnel voor een vlaggenmast)</span><br> </div>",
+    "acceptanceCriteria": "<div><span>Ik alleen vlaggen zie die fysiek passen op de&nbsp;</span><span>vlaggenmasten of gevelhouders die ik al bezit</span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 1",
+    "state": "New",
+    "assignedTo": "Andre Huang",
+    "workItemType": ""
+  },
+  {
+    "id": 193,
+    "title": "Als klant wil ik dat het filteren op vlagtype",
+    "description": "<div><span>Filteren op vlagtype (bijv. landvlaggen, seinvlaggen of&nbsp;</span><span>bedrijfsvlaggen).</span><br> </div>",
+    "acceptanceCriteria": "<div><span>Ik snel de juiste categorie vind zonder door het hele&nbsp;</span><span>assortiment te scrollen</span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 1",
+    "state": "New",
+    "assignedTo": "Mirac Topbas",
+    "workItemType": ""
+  },
+  {
+    "id": 194,
+    "title": "Als klant wil ik dat bij een vlaggenmaat direct bijpassende montagewijze toevoegen.",
+    "description": "<div><span>Bij een vlaggenmast direct bijpassende montagematerialen&nbsp;</span><span>(beugels, koorden) als 'bundel' kunnen toevoegen</span><br> </div>",
+    "acceptanceCriteria": "<div><span>Ik zeker weet dat alle onderdelen compatibel zijn voor de&nbsp;</span><span>installatie</span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 1",
+    "state": "New",
+    "assignedTo": "Emre Kayalık",
+    "workItemType": ""
+  },
+  {
+    "id": 195,
+    "title": "Als klant kan ik dat het prijzen zien in mijn lokale valuta.",
+    "description": "<div><span>Prijzen zien in mijn lokale valuta en afmetingen in het&nbsp;</span><span>metrieke of imperiale stelsel.</span><br> </div>",
+    "acceptanceCriteria": "<div><span>Ik niet handmatig hoef om te rekenen van centimeters&nbsp;</span><span>naar inches of van Euro naar Pond</span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 1",
+    "state": "New",
+    "assignedTo": "Christian Gawriyah",
+    "workItemType": ""
+  },
+  {
+    "id": 196,
+    "title": "Als klant wil dat een vlag kunnen configureren door een eigen logo/ontwerp up te loaden",
+    "description": "<div><span>Een vlag kunnen configureren door een eigen ontwerp/logo&nbsp;</span><span>te uploaden</span><br> </div>",
+    "acceptanceCriteria": "<div><span>Ik een unieke vlag kan bestellen voor mijn specifieke&nbsp;</span><span>vereniging of bedrijf</span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 2",
+    "state": "New",
+    "assignedTo": "Andre Huang",
+    "workItemType": ""
+  },
+  {
+    "id": 197,
+    "title": "Als een klant wil ik dat reviews automatisch worden vertaald.",
+    "description": "<div><span>Reviews kunnen filteren op taal of automatisch laten&nbsp;</span><span>vertalen</span><br> </div>",
+    "acceptanceCriteria": "<div><span>Ik de ervaringen van andere klanten kan beoordelen,&nbsp;</span><span>ongeacht de taal waarin ze geschreven zijn</span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 2",
+    "state": "New",
+    "assignedTo": "Mirac Topbas",
+    "workItemType": ""
+  },
+  {
+    "id": 198,
+    "title": "Als een klant wil ik een overzicht van de offciele vlaginstructies per land.",
+    "description": "<div><span>Een overzicht van de officiële vlaginstructies per land&nbsp;</span><span>kunnen inzien in de eigen taal</span><br> </div>",
+    "acceptanceCriteria": "<div><span>Ik weet op welke dagen en op welke wijze (bijv. halfstok)&nbsp;</span><span>ik de vlag correct moet uithangen</span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 2",
+    "state": "New",
+    "assignedTo": "Emre Kayalık",
+    "workItemType": ""
+  },
+  {
+    "id": 199,
+    "title": "Als een klant wil ik per materiaaltype (bijv. 110g/m² Gloss Poly of  spunpolyester) specifieke onderhouds- en wasvoorschriften  ontvangen",
+    "description": "<span>Per materiaaltype (bijv. 110g/m² Gloss Poly of&nbsp;</span><span style=\"background-color:rgb(32, 31, 30);color:rgba(255, 255, 255, 0.95);\">spunpolyester) specifieke onderhouds- en wasvoorschriften&nbsp;</span><span style=\"color:rgba(255, 255, 255, 0.95);background-color:rgb(32, 31, 30);\">ontvangen</span>",
+    "acceptanceCriteria": "<div><span>Ik de levensduur van mijn vlaggen kan maximaliseren door&nbsp;</span><span>ze op de juiste manier te reinigen</span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 2",
+    "state": "New",
+    "assignedTo": "Christian Gawriyah",
+    "workItemType": ""
+  },
+  {
+    "id": 200,
+    "title": "Als klant wil ik dat orderbevestigingen en statusupdates (Track & Trace)",
+    "description": "<div><span>Orderbevestigingen en statusupdates (Track &amp; Trace)&nbsp;</span><span>ontvangen in de taal waarin de bestelling is geplaatst</span><br> </div>",
+    "acceptanceCriteria": "<div><span>Ik het verzendproces volledig kan volgen zonder&nbsp;</span><span>taalbarrières bij de communicatie van de vervoerder</span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 2",
+    "state": "New",
+    "assignedTo": "Andre Huang",
+    "workItemType": ""
+  },
+  {
+    "id": 201,
+    "title": "Als admin wil ik dat per product verschillende vertalingen voor de SEO-metadata.",
+    "description": "<div><span>Per product verschillende vertalingen voor de SEO-metadata&nbsp;</span><span>(title tags, meta descriptions) kunnen invoeren.</span><br> </div>",
+    "acceptanceCriteria": "<div><span>De webshop per regio goed vindbaar is in&nbsp;</span><span>zoekmachines zoals Google.</span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 2",
+    "state": "New",
+    "assignedTo": "Mirac Topbas",
+    "workItemType": ""
+  },
+  {
+    "id": 202,
+    "title": "Als admin wil ik dat gebruiksrollen en permissies kunnen toewijzen.",
+    "description": "<div><span>Gebruikersrollen en permissies kunnen toewijzen (bijv. vertaler,&nbsp;</span><span>klantenservice, magazijn).</span><br> </div>",
+    "acceptanceCriteria": "<span>De veiligheid gewaarborgd blijft en medewerkers&nbsp;</span><span style=\"background-color:rgb(32, 31, 30);color:rgba(255, 255, 255, 0.95);\">alleen toegang hebben tot de functies die ze nodig&nbsp;</span><span style=\"color:rgba(255, 255, 255, 0.95);background-color:rgb(32, 31, 30);\">hebben (Role-Based Access Control)</span>",
+    "iterationPath": "Daily Grind\\Iteration 2",
+    "state": "New",
+    "assignedTo": "Emre Kayalık",
+    "workItemType": ""
+  },
+  {
+    "id": 203,
+    "title": "Àls content manager wil ik dat productteksten in bulk kunnen exporteren naar een CSV-bestand.",
+    "description": "<div>Productteksten in bulk kunnen exporteren naar een CSV￾bestand voor de vertaalafdeling.<br> </div>",
+    "acceptanceCriteria": "<div><span>Het vertaalproces efficiënt verloopt zonder&nbsp;</span><span>handmatige copy-paste acties in het CMS</span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 2",
+    "state": "New",
+    "assignedTo": "Christian Gawriyah",
+    "workItemType": ""
+  },
+  {
+    "id": 204,
+    "title": "Als voorraad beheerder wil ik dat een automatische waarschuwing ontvangen wanneer de voorraad van specifieke grondstoffen.",
+    "description": "<span>Een automatische waarschuwing ontvangen wanneer de&nbsp;</span><span style=\"background-color:rgb(32, 31, 30);color:rgba(255, 255, 255, 0.95);\">voorraad van specifieke grondstoffen (zoals rollen&nbsp;</span><span style=\"color:rgba(255, 255, 255, 0.95);background-color:rgb(32, 31, 30);\">polyesterdoek) onder een drempelwaarde zakt.</span>",
+    "acceptanceCriteria": "<div><span>Ik tijdig nieuwe materialen kan inkopen om&nbsp;</span><span>productieonderbrekingen te voorkomen.</span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 3",
+    "state": "New",
+    "assignedTo": "Andre Huang",
+    "workItemType": ""
+  },
+  {
+    "id": 205,
+    "title": "Als marketing manager wil ik dat per taalregio specifieke landingspagina's en banners kunnen instellen voor lokale feestdagen.",
+    "description": "<span>Per taalregio specifieke landingspagina's en banners kunnen&nbsp;</span><span style=\"background-color:rgb(32, 31, 30);color:rgba(255, 255, 255, 0.95);\">instellen voor lokale feestdagen (bijv. Koningsdag in NL of&nbsp;</span><span style=\"color:rgba(255, 255, 255, 0.95);background-color:rgb(32, 31, 30);\">Quatorze Juillet in Frankrijk.</span>",
+    "acceptanceCriteria": "<div><span>De webshop relevant blijft voor de lokale markt en&nbsp;</span><span>de conversie per regio stijgt</span><br> </div>",
+    "iterationPath": "Daily Grind\\Iteration 3",
+    "state": "New",
+    "assignedTo": "Mirac Topbas",
+    "workItemType": ""
+  },
+  {
+    "id": 206,
+    "title": "Als devops enigneer wil ik de front-end en back-end in apparte containers draaien die communiceren via een intern geisoleerd netwerk.",
+    "description": "<div>Als devops enigneer wil ik de front-end en back-end in apparte containers draaien die communiceren via een intern geisoleerd netwerk.<br> </div>",
+    "acceptanceCriteria": "<span>De back-end API niet rechtstreeks&nbsp;</span><span style=\"background-color:rgb(32, 31, 30);color:rgba(255, 255, 255, 0.95);\">aan het publieke internet wordt&nbsp;</span><span style=\"color:rgba(255, 255, 255, 0.95);background-color:rgb(32, 31, 30);\">blootgesteld, wat de beveiliging&nbsp;</span><span style=\"color:rgba(255, 255, 255, 0.95);background-color:rgb(32, 31, 30);\">verhoogt</span>",
+    "iterationPath": "Daily Grind\\Iteration 3",
+    "state": "New",
+    "assignedTo": "Emre Kayalık",
+    "workItemType": ""
+  },
+  {
+    "id": 207,
+    "title": "Als system admin wil ik gebruikmaken van persistent volumes voor de opslag van vlag-afbeelding en de database.",
+    "description": "<div>Als system admin wil ik gebruikmaken van persistent volumes voor de opslag van vlag-afbeelding en de database.<br> </div>",
+    "acceptanceCriteria": "<span>Er geen data verloren gaat wanneer&nbsp;</span><span style=\"background-color:rgb(32, 31, 30);color:rgba(255, 255, 255, 0.95);\">een container wordt geüpdatet,&nbsp;</span><span style=\"color:rgba(255, 255, 255, 0.95);background-color:rgb(32, 31, 30);\">herstart of verwijderd&nbsp;</span><span style=\"color:rgba(255, 255, 255, 0.95);background-color:rgb(32, 31, 30);\">(Statelessness)</span>",
+    "iterationPath": "Daily Grind\\Iteration 3",
+    "state": "New",
+    "assignedTo": "Christian Gawriyah",
+    "workItemType": ""
+  },
+  {
+    "id": 208,
+    "title": "Als developer wil ik dat een docker-compose.yml bestand gebruiken om de front-end, back-end en database lokaal op te kunnen draaien.",
+    "description": "<div>Als developer wil ik dat een docker-compose.yml bestand gebruiken om de front-end, back-end en database lokaal op te kunnen draaien.<br> </div>",
+    "acceptanceCriteria": "<span>Mijn ontwikkelomgeving identiek is&nbsp;</span><span style=\"background-color:rgb(32, 31, 30);color:rgba(255, 255, 255, 0.95);\">aan de productieomgeving (&quot;it&nbsp;</span><span style=\"color:rgba(255, 255, 255, 0.95);background-color:rgb(32, 31, 30);\">works on my machine&quot; probleem</span><span style=\"color:rgba(255, 255, 255, 0.95);background-color:rgb(32, 31, 30);\">voorkomen).</span>",
+    "iterationPath": "Daily Grind\\Iteration 3",
+    "state": "New",
+    "assignedTo": "Andre Huang",
+    "workItemType": ""
+  },
+  {
+    "id": 209,
+    "title": "Als systeem wil ik automatisch health checks uitvoeren op de back-end container.",
+    "description": "<div>Als systeem wil ik automatisch health checks uitvoeren op de back-end container.<br> </div>",
+    "acceptanceCriteria": "<span>De orchestrator (bijv. Docker&nbsp;</span><span style=\"background-color:rgb(32, 31, 30);color:rgba(255, 255, 255, 0.95);\">Compose of Kubernetes) de&nbsp;</span><span style=\"color:rgba(255, 255, 255, 0.95);background-color:rgb(32, 31, 30);\">container automatisch kan&nbsp;</span><span style=\"color:rgba(255, 255, 255, 0.95);background-color:rgb(32, 31, 30);\">herstarten als de API niet meer&nbsp;</span><span style=\"color:rgba(255, 255, 255, 0.95);background-color:rgb(32, 31, 30);\">reageert.</span>",
+    "iterationPath": "Daily Grind\\Iteration 3",
+    "state": "New",
+    "assignedTo": "Mirac Topbas",
+    "workItemType": ""
+  },
+  {
+    "id": 210,
+    "title": "Als systeem wil ik op basis van het IP-adres van bezoeker automatisch de meest revalant taal en regio instellen.",
+    "description": "<div>Als systeem wil ik op basis van het IP-adres van bezoeker automatisch de meest revalant taal en regio instellen.<br> </div>",
+    "acceptanceCriteria": "<span>De UX direct bij binnenkomst&nbsp;</span><span style=\"background-color:rgb(32, 31, 30);color:rgba(255, 255, 255, 0.95);\">geoptimaliseerd is voor de&nbsp;</span><span style=\"color:rgba(255, 255, 255, 0.95);background-color:rgb(32, 31, 30);\">specifieke gebruiker</span>",
+    "iterationPath": "Daily Grind\\Iteration 3",
+    "state": "New",
+    "assignedTo": "Emre Kayalık",
+    "workItemType": ""
+  }
+]
